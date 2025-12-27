@@ -1,0 +1,14 @@
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\bin\Debug\net8.0\DigitalCarbonFootprintTracker.exe
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\bin\Debug\net8.0\DigitalCarbonFootprintTracker.deps.json
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\bin\Debug\net8.0\DigitalCarbonFootprintTracker.runtimeconfig.json
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\bin\Debug\net8.0\DigitalCarbonFootprintTracker.dll
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\bin\Debug\net8.0\DigitalCarbonFootprintTracker.pdb
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\obj\Debug\net8.0\DigitalCarbonFootprintTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\obj\Debug\net8.0\DigitalCarbonFootprintTracker.AssemblyInfoInputs.cache
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\obj\Debug\net8.0\DigitalCarbonFootprintTracker.AssemblyInfo.cs
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\obj\Debug\net8.0\DigitalCarbonFootprintTracker.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\obj\Debug\net8.0\DigitalCarbonFootprintTracker.dll
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\obj\Debug\net8.0\refint\DigitalCarbonFootprintTracker.dll
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\obj\Debug\net8.0\DigitalCarbonFootprintTracker.pdb
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\obj\Debug\net8.0\DigitalCarbonFootprintTracker.genruntimeconfig.cache
+C:\Users\aaron\Desktop\University\Year2\ICE\Programs\CarbonFootprint\DigitalCarbonFootprintTracker\DigitalCarbonFootprintTracker\obj\Debug\net8.0\ref\DigitalCarbonFootprintTracker.dll

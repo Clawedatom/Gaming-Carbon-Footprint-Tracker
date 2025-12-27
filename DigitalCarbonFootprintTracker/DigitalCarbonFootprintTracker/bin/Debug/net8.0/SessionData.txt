@@ -1,0 +1,8 @@
+EldenRing 1 1.5 Console 
+TFT 1 1.5 Desktop
+LOL 2 3.25 Laptop
+ShootingGame 1 0.75 Tablet
+Lazer 0.5 0.124 Desktop
+Ippo 1.5 0.156 Console
+Popp 2 4 Laptop
+

@@ -1,0 +1,20 @@
+Lower your screen brightness to reduce energy consumption.
+Enable power-saving or eco modes on your PC or console.
+Shut down your system instead of leaving it in sleep mode overnight.
+Close unused background applications while gaming.
+Limit unnecessary game launcher auto-start programs.
+Take breaks during long sessions to reduce continuous power use.
+Update hardware drivers to improve energy efficiency.
+Use wired connections instead of multiple wireless devices where possible.
+Avoid leaving games paused for long periods while running.
+Reduce in-game graphical settings if ultra quality is not needed.
+Disable RGB lighting when it is not in use.
+Use energy-efficient monitors with lower power ratings.
+Turn off peripherals when not actively using them.
+Lower refresh rates when high FPS is not required.
+Unplug chargers and devices when they are fully charged.
+Prefer digital downloads over physical media where possible.
+Keep your PC clean to maintain efficient cooling and airflow.
+Avoid overclocking unless necessary, as it increases power draw.
+Use cloud saves to reduce unnecessary local storage usage.
+Recycle old hardware responsibly instead of discarding it.
