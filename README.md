@@ -8,3 +8,5 @@ The application allows users to:
 
 This release contains a compiled Windows executable only.
 Source code is not included.
+
+Some session data is already saved.
