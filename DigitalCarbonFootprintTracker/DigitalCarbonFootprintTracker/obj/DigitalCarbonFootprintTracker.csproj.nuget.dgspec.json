@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aaron\\Desktop\\University\\Year2\\ICE\\Programs\\CarbonFootprint\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj": {}
+    "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aaron\\Desktop\\University\\Year2\\ICE\\Programs\\CarbonFootprint\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj": {
+    "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aaron\\Desktop\\University\\Year2\\ICE\\Programs\\CarbonFootprint\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj",
+        "projectUniqueName": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj",
         "projectName": "DigitalCarbonFootprintTracker",
-        "projectPath": "C:\\Users\\aaron\\Desktop\\University\\Year2\\ICE\\Programs\\CarbonFootprint\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj",
+        "projectPath": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj",
         "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aaron\\Desktop\\University\\Year2\\ICE\\Programs\\CarbonFootprint\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\obj\\",
+        "outputPath": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

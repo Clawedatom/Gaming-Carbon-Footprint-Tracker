@@ -61,19 +61,29 @@ namespace DigitalCarbonFootprintTracker
             TimeSpan sessionTime = TimeSpan.FromHours(sessionDuration);
             TimeSpan targetTime = TimeSpan.FromHours(targetDuration);
 
-            string sessionFormatted = sessionTime.TotalHours >= 1   
+            string sessionFormatted = sessionTime.TotalHours >= 1
                 ? $"{(int)sessionTime.TotalHours}h {sessionTime.Minutes}m {sessionTime.Seconds}s"
                 : $"{sessionTime.Minutes}m {sessionTime.Seconds}s";
 
+            float diff = sessionDuration - targetDuration;
+
+            string targetFeedback;
+            if (diff > 0)
+                targetFeedback = $"You exceeded your target by {diff * 60:0} minutes.";
+            else
+                targetFeedback = $"You stayed under your target by {-diff * 60:0} minutes.";
+
             return
-                $"===== Session Summary ===== \n" +
+                $"===== Session Summary =====\n" +
                 $"Game: {gameName}\n" +
                 $"Target Duration: {targetTime.TotalHours:0.#}h\n" +
                 $"Session Duration: {sessionFormatted}\n" +
                 $"Device Used: {deviceUsed}\n" +
                 $"Estimated Carbon Footprint: {carbonEmissions:0.000} kg CO2\n" +
-                $"=========================== ";
+                $"{targetFeedback}\n" +
+                $"===========================";
         }
+
 
 
         public string SaveData()

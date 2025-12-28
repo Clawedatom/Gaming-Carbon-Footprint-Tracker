@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36B44B87-429B-4785-A980-4AFD4A50AC0C}|DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj|c:\\users\\aaron\\desktop\\githubrepo temps\\gaming-carbon-footprint-tracker\\digitalcarbonfootprinttracker\\digitalcarbonfootprinttracker\\sessionsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B44B87-429B-4785-A980-4AFD4A50AC0C}|DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj|solutionrelative:digitalcarbonfootprinttracker\\sessionsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B44B87-429B-4785-A980-4AFD4A50AC0C}|DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj|c:\\users\\aaron\\desktop\\githubrepo temps\\gaming-carbon-footprint-tracker\\digitalcarbonfootprinttracker\\digitalcarbonfootprinttracker\\analyticsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B44B87-429B-4785-A980-4AFD4A50AC0C}|DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj|solutionrelative:digitalcarbonfootprinttracker\\analyticsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B44B87-429B-4785-A980-4AFD4A50AC0C}|DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj|c:\\users\\aaron\\desktop\\githubrepo temps\\gaming-carbon-footprint-tracker\\digitalcarbonfootprinttracker\\digitalcarbonfootprinttracker\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B44B87-429B-4785-A980-4AFD4A50AC0C}|DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj|solutionrelative:digitalcarbonfootprinttracker\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B44B87-429B-4785-A980-4AFD4A50AC0C}|DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj|c:\\users\\aaron\\desktop\\githubrepo temps\\gaming-carbon-footprint-tracker\\digitalcarbonfootprinttracker\\digitalcarbonfootprinttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B44B87-429B-4785-A980-4AFD4A50AC0C}|DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker.csproj|solutionrelative:digitalcarbonfootprinttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnalyticsManager.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\AnalyticsManager.cs",
+              "RelativeDocumentMoniker": "DigitalCarbonFootprintTracker\\AnalyticsManager.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\AnalyticsManager.cs",
+              "RelativeToolTip": "DigitalCarbonFootprintTracker\\AnalyticsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T16:58:56.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionSummary.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\SessionSummary.cs",
+              "RelativeDocumentMoniker": "DigitalCarbonFootprintTracker\\SessionSummary.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\SessionSummary.cs",
+              "RelativeToolTip": "DigitalCarbonFootprintTracker\\SessionSummary.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:24:40.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\SaveManager.cs",
+              "RelativeDocumentMoniker": "DigitalCarbonFootprintTracker\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\SaveManager.cs",
+              "RelativeToolTip": "DigitalCarbonFootprintTracker\\SaveManager.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T22:23:46.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\Program.cs",
+              "RelativeDocumentMoniker": "DigitalCarbonFootprintTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\GithubRepo Temps\\Gaming-Carbon-Footprint-Tracker\\DigitalCarbonFootprintTracker\\DigitalCarbonFootprintTracker\\Program.cs",
+              "RelativeToolTip": "DigitalCarbonFootprintTracker\\Program.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAqwMsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T21:45:34.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

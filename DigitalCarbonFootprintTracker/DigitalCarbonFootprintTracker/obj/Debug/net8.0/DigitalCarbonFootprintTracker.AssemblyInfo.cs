@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalCarbonFootprintTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e83708393ab5f05d1df3cb207fff6c70ce4cfc33")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalCarbonFootprintTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalCarbonFootprintTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
